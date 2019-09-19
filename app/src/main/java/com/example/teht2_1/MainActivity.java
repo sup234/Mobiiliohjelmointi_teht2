@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private boolean btn2enabled = true;
     private boolean btn3enabled = true;
     private ImageView kuva;
+    //a
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
